@@ -25,8 +25,8 @@ desktop screens.
 
 ### Screenshot
 
-![Desktop screen](card-component-desktop.png)
-![Mobile screen](card-component-mobile.png)
+![Desktop screen](disc/card-component-desktop.png)
+![Mobile screen](disc/card-component-mobile.png)
 
 ### Links
 
