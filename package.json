@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "deploy -d disc"
+    "deploy": "deploy -d disc"
   },
   "keywords": [],
   "author": "",
